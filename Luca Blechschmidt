@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ergotherapie Neustadt - Hände für ein besseres Leben</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="header-image.jpg" alt="Header Image">
+        <h1>Ergotherapie Neustadt - Hände für ein besseres Leben</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Willkommen bei Ergotherapie Neustadt</h2>
+            <p>We are a team of dedicated occupational therapists committed to helping individuals of all ages achieve their full potential. Our goal is to empower you to live a more independent, productive, and fulfilling life.</p>
+        </section>
+        <section>
+            <h2>Unsere Dienstleistungen:</h2>
+            <ul>
+                <li>Customized therapy plans tailored to your specific needs</li>
+                <li>Expert guidance and support for daily living activities</li>
+                <li>State-of-the-art equipment and facilities</li>
+                <li>Collaborative approach with healthcare professionals and caregivers</li>
+            </ul>
+        </section>
+        <section class="image-gallery">
+            <h2>Bilder unserer Arbeit</h2>
+            <div class="image-container">
+                <img src="image1.jpg" alt="Image 1">
+                <img src="image2.jpg" alt="Image 2">
+                <img src="image3.jpg" alt="Image 3">
+                <img src="image4.jpg" alt="Image 4">
+            </div>
+        </section>
+        <section>
+            <h2>Über uns:</h2>
+            <p>Our team of experienced occupational therapists is dedicated to providing compassionate and effective care. We believe in empowering individuals to take control of their lives and reach their full potential.</p>
+        </section>
+        <section>
+            <h2>Kontakt:</h2>
+            <p>Get in touch with us to schedule an appointment or learn more about our services.</p>
+            <address>
+                Ergotherapie Neustadt<br>
+                [Your Address]<br>
+                [Your Phone Number]<br>
+                [Your Email]
+            </address>
+        </section>
+    </main>
+    <footer>
+        <img src="footer-image.jpg" alt="Footer Image">
+    </footer>
+</body>
+</html>
